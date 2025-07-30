@@ -111,7 +111,7 @@ Adds a new item. JSON body example:
 
 ## 🖋️ Report
 
-You can read the report in [API_Report.txt](./API_Report.txt)
+You can read the report in [Report.pdf](./Report.pdf)
 
 ## 📌 Notes
 
