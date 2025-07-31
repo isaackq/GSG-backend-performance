@@ -12,7 +12,7 @@ The API stores data **in memory** (not persisted), and supports basic todo-style
 ## 📁 Project Structure
 
 ```
-TEST_FOLDER/
+GSG-backend-performance/
 │
 ├── Report.pdf          # 1-page performance & testing report
 ├── screenshots         # screenshots of the performed tests
